@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python, Javascript, HTML, CSS
 - 🌱 I’m currently learning Python and soon Javascript
 - 💞️ I’m looking to collaborate on some python projects mainly
-- 📫 How to reach me: Discord: Entity2k3#1107
+- 📫 How to reach me: Discord: Entity2k3#1337
 
 <!---
 Entity2k3/Entity2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
